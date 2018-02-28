@@ -1,0 +1,31 @@
+{
+  "name": "prozad",
+  "version": "1.0.0",
+  "description": "MEAN Stack with Angular 5",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hathefah/Mean-Zaad.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack"
+  ],
+  "author": "Hathefah al-shrami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hathefah/Mean-Zaad/issues"
+  },
+  "homepage": "https://github.com/hathefah/Mean-Zaad#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.6"
+  }
+}
